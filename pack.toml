@@ -1,0 +1,13 @@
+name = "Silas Origins"
+author = "FrostyTacos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "97e1ff3b5e10ebab9914d2b6ecaeb0ffd86cd2bf74d38416085eeb0a142bb8a9"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
