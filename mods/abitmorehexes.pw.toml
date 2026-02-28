@@ -1,0 +1,13 @@
+name = "aBitMoreHex: Recasted"
+filename = "abitmorehex_recasted-forge-0.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8256899e18275fa7eae3efa7701391422a9309b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7567304
+project-id = 1122270
