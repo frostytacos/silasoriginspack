@@ -1,0 +1,13 @@
+name = "Potions backport"
+filename = "potions_backport-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zWbABCLz/versions/Vr3cl3vg/potions_backport-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "3b795ed4f33d133718d05416cc42c449080712ba73b4946a0a9a959a911e822257e8babb2bb15693524ffcddee92868c4e99475012cbacc4e47ab7e467ea3470"
+
+[update]
+[update.modrinth]
+mod-id = "zWbABCLz"
+version = "Vr3cl3vg"

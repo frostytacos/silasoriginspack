@@ -1,0 +1,13 @@
+name = "BCLib Forge"
+filename = "BCLib-20.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a0218a0e5461fd1e73ea6a05082ea216893c8f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7654257
+project-id = 1435106

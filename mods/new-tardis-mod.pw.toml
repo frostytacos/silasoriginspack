@@ -1,0 +1,13 @@
+name = "New TARDIS Mod"
+filename = "Tardis-Mod-1.20.1-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91b47acb123433c60b92b5964046a8d97550d4c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7600646
+project-id = 290247

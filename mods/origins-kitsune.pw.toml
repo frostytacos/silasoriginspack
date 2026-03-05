@@ -1,0 +1,13 @@
+name = "Origins: Kitsune"
+filename = "origins-kitsune-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U7G4EHLF/versions/Umk2HBPV/origins-kitsune-1.4.jar"
+hash-format = "sha512"
+hash = "de47f71bbc2b90e16b58ef25c34a6652434dc7daefe70af8af6dbcf56ee854ada474b36b4030d6cf95e701ddb5d868d418ecf01894f473b52717a3381facb00a"
+
+[update]
+[update.modrinth]
+mod-id = "U7G4EHLF"
+version = "Umk2HBPV"
